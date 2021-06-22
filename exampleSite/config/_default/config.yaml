@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Bora Yıldız # Website name
+title: Bora Yildiz # Website name
 baseurl: 'www.dr.borayildiz.com' # Website URL
 copyright: 'Bora Yıldız, 2021' # Footer text, e.g. '© {year} Me'
 
