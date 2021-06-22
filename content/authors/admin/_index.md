@@ -33,7 +33,7 @@ education:
     institution: Beykent University
     year: 2010
   - course: BSA in Public Administration
-    institution: Anadolu Universitu
+    institution: Anadolu University
     year: 2007
 
 # Social/Academic Networking
