@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bora YILDIZ
+title: Dr. Bora YILDIZ (PhD)
 # Is this the primary user of the site?
 superuser: true
 
