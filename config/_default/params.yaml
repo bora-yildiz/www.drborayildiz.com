@@ -46,10 +46,7 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:bora345071?call'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+
 
 # Site header
 
